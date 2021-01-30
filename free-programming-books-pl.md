@@ -4,6 +4,7 @@
 * [Android](#android)
 * [Bash](#bash)
 * [C](#c)
+* [C#](#c-sharp)
 * [C++](#c-1)
 * [Common Lisp](#common-lisp)
 * [Coq](#coq)
@@ -16,23 +17,23 @@
 * [MySQL](#mysql)
 * [Perl](#perl)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Prolog](#prolog)
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
-* [Scala](#scala)
 * [SQL](#sql)
 
 
 ### 0 - Niezależne od języka programowania
 
-* [Git](https://pl.wikibooks.org/wiki/Git)
+* [Git](https://pl.wikibooks.org/wiki/Git) - Wikibooks
 * [Interaktywna platforma do nauki programowania](http://apki.org)
-* [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS)
+* [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS) - Wikibooks
+* [Poradnik początkującego programisty](http://www.eioba.pl/a/2eu1/poradnik-poczatkujacego-programisty)
 * [Pro Git](http://git-scm.com/book/pl/)
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
-* [SVN](https://pl.wikibooks.org/wiki/Subversion)
-* [System kontroli wersji Subversion](http://www.gajdaw.pl/varia/subversion-system-kontroli-wersji-tutorial/)
+* [SVN](https://pl.wikibooks.org/wiki/Subversion) - Wikibooks
 
 
 ### Android
@@ -43,116 +44,125 @@
 
 ### Bash
 
-* [Kurs Bash'a](http://dief.republika.pl/kursbasha.tar.gz) (tar.gz)
+* [Kurs Bash'a](http://web.archive.org/web/20180129013729/http://dief.republika.pl/kursbasha.tar.gz) (tar.gz)
 
 
 ### C
 
-* [Podstawy programowania Unixa/Linuxa](http://www.opcode.eu.org/programing/c_cpp/)
-* [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) (PDF)
+* [Kurs C](http://qvazar.pl/kurs-c/kurs-c)
+* [Kurs programowania w języku ANSI C pod systemem UNIX](http://janek.ae.krakow.pl/wiluszt/zajecia/c/ansic/) - Janusz Przewocki, Adam Narbudowicz
+* [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) - Wikibooks (PDF)
+* [Programowanie w języku C](http://www.arturpyszczuk.pl/files/c/pwc.pdf) (PDF)
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
+
+
+### C Sharp
+
+* [Darmowy kurs C#](http://kurs.aspnetmvc.pl/Csharp)
+* [Kurs C#](http://zajacmarek.com/kurs-c-sharp/) - Marek Zając
+* [Kurs podstawy C#](https://cezarywalenciuk.pl/blog/programing/kurs/kurs-podstaw-c-sharp) - Cezary Walenciuk
+* [Programowanie w języku C#](https://4programmers.net/C_sharp)
+* [Wstęp do programowania w C#](http://c-sharp.ue.katowice.pl/ksiazka/c_sharp_wer2_0.pdf) - Anna Kempa, Tomasz Staś (PDF)
 
 
 ### C++
 
-* [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1)
-* [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/)
-* [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/watch?v=aDXjubGK0jU&list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB)
-* [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo)
-* [Zaawansowane C++](http://wazniak.mimuw.edu.pl/index.php?title=Zaawansowane_CPP)
+* [C++](https://pl.wikibooks.org/wiki/C++) - Wikibooks
+* [Język C++ – podstawy programowania](http://www.dz5.pl/ti/cpp/zz_dodatki/kurs_cpp_szczegolowy2.pdf) - Paweł Mikołajczak (PDF)
+* [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1) - Piotr Szawdyński
+* [Megatutorial "Od zera do gier kodera"](http://xion.org.pl/productions/texts/coding/megatutorial/) - Karol Kuczmarski
 
 
 ### Common Lisp
 
-* [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php)
-
-
-### Coq
-
-* [zeimer.github.io (Programowanie Funkcyjne)](https://zeimer.github.io)
+* [Kurs programowania w języku Common Lisp](http://jcubic.pl/lisp_tutorial.php) - Jakub Jankiewicz
 
 
 ### CSS
 
-* [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html)
-* [Kurs CSS. Wygląd strony www - kaskadowe arkusze stylów - Pasja informatyki (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv)
-* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
+* [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 
 
 ### Haskell
 
-* [Haskell](https://pl.wikibooks.org/wiki/Haskell)
+* [Haskell](https://pl.wikibooks.org/wiki/Haskell) - Wikibooks
 
 
 ### HTML
 
-* [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html)
-* [KURS HTML](http://www.kurshtml.edu.pl)
-* [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/)
+* [HTML dla zielonych](http://www.kurshtml.edu.pl/html/zielony.html) - Sławomir Kokłowski
+* [KURS HTML](http://www.kurshtml.edu.pl) - Sławomir Kokłowski
+* [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 
 
 ### Java
 
-* [Java start](http://javastart.pl)
+* [Darmowy kurs Java](https://javastart.pl/baza-wiedzy/darmowy-kurs-java) - Sławek Ludwiczak
+* [Język Java](http://www.dz5.pl/ti/java/java_skladnia.pdf) - Jacek Rumiński (PDF)
+* [Kurs Java](https://stormit.pl/kurs-java/) - Tomasz Woliński
+* [Kurs programowania Java](http://www.samouczekprogramisty.pl/kurs-programowania-java/) - Marcin Pietraszek
+* [Praktyczny kurs Javy](https://kobietydokodu.pl/kurs-javy/) - Jakub Derda
 
 
 ### JavaScript
 
+* [JavaScript](https://pl.wikibooks.org/wiki/JavaScript) - Wikibooks
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
-* [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/)
-* [Kurs JavaScript. Programowanie frontendowe (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC)
-* [Wstęp - JavaScript](http://www.kurshtml.edu.pl/js/index.html)
+* [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/) - Marijn Haverbeke, Łukasz Piwko
+* [Wstęp - JavaScript](http://www.kurshtml.edu.pl/js/index.html) - Sławomir Kokłowski
 
 
 ### LaTeX
 
-* [LaTeX kurs](http://www.latex-kurs.x25.pl)
-* [LaTeX. Książka kucharska](http://www.ptm.org.pl/latex-ksiazka-kucharska), Marcin Borkowski, Bartłomiej Przybylski
-* [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish)
+* [LaTeX kurs](http://www.latex-kurs.x25.pl) - Przemysław Spurek
+* [LaTeX. Książka kucharska](https://ptm.org.pl/sites/default/files/latex-ksiazka-kucharska.pdf) - Marcin Borkowski, Bartłomiej Przybylski (PDF)
+* [Nie za krótkie wprowadzeniedo systemu LATEX 2ε](http://www.ctan.org/tex-archive/info/lshort/polish) - Janusz Goldasz, Ryszard Ku­biak, To­masz Przech­lewski
 
 
 ### MySQL
 
-* [Kurs MySQL. Bazy danych, język zapytań SQL](https://www.youtube.com/playlist?list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ)
+* [Bazy Danych MYSQL](https://miroslawzelent.pl/kurs-mysql/)
 
 
 ### Perl
 
-* [Wikibooks Perl](https://pl.wikibooks.org/wiki/Perl)
+* [Perl](https://pl.wikibooks.org/wiki/Perl) - Wikibooks
 
 
 ### PHP
 
-* [Kurs PHP](http://phpkurs.pl)
-* [Kurs PHP. Programowanie backendowe](https://www.youtube.com/playlist?list=PLOYHgt8dIdox81dbm1JWXQbm2geG1V2uh)
-* [PHP](https://pl.wikibooks.org/wiki/PHP)
-* [PHP: The Right Way](http://pl.phptherightway.com)
+* [Kurs PHP](http://phpkurs.pl) - Leszek Krupiński
+* [PHP](https://pl.wikibooks.org/wiki/PHP) - Wikibooks
+* [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
+
+
+#### Symfony
+
+* [Symfony 5: Szybki start](https://symfony.com/doc/5.0/the-fast-track/pl/index.html)
 
 
 ### Prolog
 
-* [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](http://www.pwlzo.pl)
+* [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](http://www.pwlzo.pl) - Antoni Niederliński
 
 
 ### Python
 
-* [Biblioteka Pythona](http://www.python.rk.edu.pl)
+* [Biblioteka Pythona](http://www.python.rk.edu.pl) - Piotr Maliński
+* [Podstawy Pythona](http://www.python.rk.edu.pl/w/p/podstawy/) - Piotr Maliński
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 
 #### Django
 
+* [Kurs Django](http://www.python.rk.edu.pl/w/p/djangoindex/)
 * [Kurs Django Girls](https://tutorial.djangogirls.org/pl/) (1.11) (HTML)
 
 
 ### Ruby
 
 * [Ruby](https://pl.wikibooks.org/wiki/Ruby)
-
-
-### Scala
-
-* [Język programowania Scala](http://www.grzegorzbalcerek.net/jps2/index.html)
 
 
 ### SQL

@@ -1,21 +1,43 @@
-### Índice
+﻿### Índice
 
+* [Agnósticos](#agnosticos)
+  * [Programação](#programação)
+  * [Sistemas Operacionais](#sistemas-operacionais)
+* [Android](#android)
 * [C](#c)
 * [C#](#c-sharp)
 * [C++](#c-1)
+* [Docker](#docker)
 * [Engenharia de software](#engenharia-de-software)
+  * [Arquitetura de Software](#arquitetura-de-software)
   * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
   * [Outros](#outros)
+* [Fundamentos Matemáticos Computacionais](#fundamentos-matematicos-computacionais)
 * [Git](#git)
+* [Go](#go)
 * [Haskell](#haskell)
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [Angular](#angular)
+  * [Angular.js](#angularjs)
+  * [Backbone.js](#backbonejs)
+  * [Ember.js](emberjs)
+  * [Express.js](#expressjs)
+  * [Grunt](#grunt)
+  * [Gulp](#gulp)
+  * [jQuery](#jquery)
+  * [Knockout.js](#knockoutjs)
+  * [Meteor](#meteor)
+  * [Node.js](#nodejs)
+  * [React](#react)
+  * [Vue.js](#vuejs)
+* [Kubernetes](#kubernetes)
 * [LaTeX](#latex)
 * [LISP](#lisp)
 * [Lua](#lua)
-* [Perl](#perl)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Python](#python)
   * [Django](#django)
 * [RegEx](#regex)
@@ -24,12 +46,30 @@
 * [Vim](#vim)
 
 
+### Agnósticos
+
+#### Programação
+
+* [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari e Cristian Cechinel (PDF)
+* [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
+
+
+#### Sistemas Operacionais
+
+* [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF)
+* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (:construction: *em contínuo desenvolvimento*)
+
+
+### Android
+
+* [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
+
+
 ### C
 
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
 * [Curso de Programação em C - UFMG](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf) - Renato Cardoso Mesquita (PDF)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
-* [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
 * [Introdução em Computação - C](http://www.ime.usp.br/~elo/IntroducaoComputacao/).
 * [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
@@ -47,6 +87,11 @@
 * [Programação Orientada a Objetos em C++](http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
 
 
+### Docker
+
+* [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
+
+
 ### Engenharia de Software
 
 #### Metodologias de Desenvolvimento de Software
@@ -56,19 +101,36 @@
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*
 
 
+#### Arquitetura de Software
+
+ * [ASP.NET Core architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/) (PDF)
+ * [Microservices architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/) (PDF)
+ * [Modernizing existing .NET apps](https://docs.microsoft.com/pt-br/dotnet/architecture/modernize-with-azure-containers/) (PDF)
+
+
 #### Outros
 
 * [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br)
+* [Deploy em produção para desenvolvedores](https://leanpub.com/deployemprodparadevs) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
 * [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
+
+
+### Fundamentos Matemáticos Computacionais
+
+* [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas (:construction: *in process*)
 
 
 ### Git
 
-* [Apostila Git - UFPR](http://www.pet.est.ufpr.br/apostila/apostila_git.pdf) (PDF)
 * [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
 * [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP
 * [Pro Git](http://git-scm.com/book/pt-br/)
+
+
+### GO
+
+* [Go - hands on](https://github.com/go-br/estudos)
 
 
 ### Haskell
@@ -78,38 +140,124 @@
 
 ### HTML / CSS
 
-* [Curso de HTML5 em vídeo do Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
-* [Desenvolvendo para browsers antigos](http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/)
+* [Apostila de HTML](https://www.telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf) - Robertha Pereira Pedroso (PDF)
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
 * [Dive Into HTML5](http://diveintohtml5.com.br)
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
-* [Performance WEB](http://www.webperf.com.br)
 
 
 ### Java
 
-* [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/) - Caelum
 * [Desenvolvimento Distribuído com JavaEE](https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido) - Rafael Guimarães Sakurai
-* [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf) (PDF)
+* [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/publications/files/2008/intro-java-cc.pdf) (PDF)
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) - Caelum
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
-* [Lab. Java com Testes, JSF e Design Patterns](https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns/) - Caelum
-* [Web ágil com VRaptor, Hibernate e AJAX](http://www.caelum.com.br/apostila-vraptor-hibernate/) - Caelum
+* [Programação para iniciantes](https://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-programacao-para-iniciantes-v1.1.pdf) (PDF)
 
 
 ### JavaScript
 
-* [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
+* [Eloquente JavaScript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
-* [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR.md)
+* [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos)
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
+* [You Don't Know JS: Async & Performance](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/async%20&%20performance/README.md)
+* [You Don't Know JS: ES6 & Além](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/es6%20&%20beyond/README.md)
+* [You Don't Know JS: Escopos & Closures](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/scope%20&%20closures/README.md)
+* [You Don't Know JS: Iniciando](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/up%20&%20going/README.md)
+* [You Don't Know JS: this & Prototipagem de Objetos](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/this%20&%20object%20prototypes/README.md)
+* [You Don't Know JS: Tipos & Gramática](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/types%20&%20grammar/README.md)
+
+
+#### Angular
+
+* [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm)
+* [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/index.html)
+
+
+#### Angular.js
+
+* [Criando uma aplicação simples com AngularJS](http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/)
+* [Criando uma aplicação Single Page com AngularJS](http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/)
+* [Entendendo as diretivas e fazendo abas com AngularJS](http://tableless.com.br/diretivas-angularjs-abas/)
+
+
+#### Backbone.js
+
+* [Série Backbone.js (blog.fernandomantoan.com)](http://blog.fernandomantoan.com/serie-backbone-js-parte-1-introducao/)
+* [Série Backbone.js (devfuria.com.br)](http://www.devfuria.com.br/javascript/backbone/)
+
+
+#### Ember.js
+
+* [Conceitos basicos do Ember.js](http://fabriciotav.org/blog/2013/02/20/conceitos-basicos-do-emberjs.html)
+* [Handlebars Helpers com Ember.js](http://fabriciotav.org/blog/2013/02/20/handlebars-helpers-com-emberjs.html)
+
+
+#### Express.js
+
+* [Primeiros passos com Express em Node.js](http://nodebr.com/primeiros-passos-com-express-em-node-js/)
+
+
+#### Grunt
+
+* [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
+* [Grunt | Automatizando tarefas](http://woliveiras.com.br/posts/grunt-automatizando-tarefas/)
+
+
+#### Gulp
+
+* [Gulp - O novo automatizador](http://tableless.com.br/gulp-o-novo-automatizador/)
+
+
+#### jQuery
+
+* [Artigos sobre jQuery](https://tableless.com.br/categories/jquery/)
+
+
+#### Knockout.js
+
+* [Documentação](https://github.com/alexhiroshi/knockoutjs-brasil)
+
+
+#### Meteor
+
+* [Tudo sobre Meteor](http://udgwebdev.com/meteor/)
+
+
+#### Node.js
+
+* [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/) - Waldemar Neto *(necessário conta no Leanpub ou e-mail válido)*
+* [Node.js para Leigos](http://udgwebdev.com/nodejs/)
+* [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
+
+
+#### React
+
+* [React: JavaScript reativo](http://tableless.com.br/react-javascript-reativo/)
+* [The Road to Learn React](https://leanpub.com/the-road-to-learn-react-portuguese) *(necessário conta no Leanpub ou e-mail válido)*
+
+
+#### Vue.js
+
+* [Adicionar Bootstrap e Font-awesome no projeto criado com o Vue Cli](https://web.archive.org/web/20180613054310/http://www.vedovelli.com.br/frontend/adicionar-bootstrap-e-font-awesome-no-projeto-criado-com-o-vue-cli/)
+* [Documentação pt-BR](https://br.vuejs.org/v2/guide/)
+* [Vue.js Brasil - Artigos em Português sobre Vue.js](http://www.vuejs-brasil.com.br)
+* [Vue.js na prática](https://leanpub.com/livro-vue) - Daniel Schmitz and Daniel Pedrinha Georgii (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
+* [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
+
+
+### Kubernetes
+
+* [Introdução ao Kubernetes no Azure](https://docs.microsoft.com/pt-br/learn/paths/intro-to-kubernetes-on-azure/)
 
 
 ### LaTeX
 
 * [Breve Introdução ao LaTeX2e](http://www.if.ufrj.br/~sandra/MetComp/doc/latex.pdf) - Lenimar Nunes de Andrade (PDF)
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
+* [Latexação](https://www.ime.usp.br/~tassio/arquivo/latex/apostila.pdf) - Tássio Naia dos Santos (PDF)
 
 
 ### LISP
@@ -122,11 +270,6 @@
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
 
 
-### Perl
-
-* [Perl Básico](https://github.com/HeitorG/Perl-Brasil/blob/master/apostilas/perl-basico.pdf) - Heitor Gouvea (PDF)
-
-
 ### PHP
 
 * [A semana PHP](http://asemanaphp.com.br)
@@ -137,13 +280,23 @@
 * [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
 
 
+#### Symfony
+
+* [Symfony 5: A Trilha Rápida](https://symfony.com/doc/5.0/the-fast-track/pt_BR/index.html)
+
+
 ### Python
 
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
 * [Aprenda Python Básico - Rápido e Fácil de entender](http://felipegalvao.com.br/livros) (PDF / Epub)
 * [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
 * [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)
+* [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF)
+* [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
+* [Pense em Python](https://penseallen.github.io/PensePython2e)
+* [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/)
+* [Python Funcional](https://dunossauro.github.io/python-funcional/) - Eduardo Mendes
 * [Python Orientado a Objetos](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxyYWZhZWx1ZnR8Z3g6NTJlM2UzYzY1ZTgzMDEwMw) (PDF)
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
@@ -151,7 +304,8 @@
 
 #### Django
 
-* [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/) (1.11) (HTML) (:construction: *in process*)
+* [Documentação do Django](https://docs.djangoproject.com/pt-br)
+* [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
 
 
 ### RegEx
@@ -162,7 +316,6 @@
 ### Ruby
 
 * [Aprenda a Programar](http://www.jmonteiro.com/aprendaaprogramar/)
-* [Conhecendo Ruby](http://howtocode.com.br/ebooks/ruby)
 * [Conhecendo Ruby - Eustaquio Rangel](https://leanpub.com/conhecendo-ruby/read)
 * [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com)
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/) - Caelum
@@ -171,7 +324,7 @@
 ### Shell
 
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
-* [Pequena introdução ao linux e ao Shell Script ](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
+* [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
 * [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf) (PDF)
 
 

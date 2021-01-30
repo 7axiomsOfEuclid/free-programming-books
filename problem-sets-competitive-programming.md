@@ -1,7 +1,9 @@
 ### Index
 
 * [Competitive Programming](#competitive-programming)
+* [CTF Capture the Flag](#capture-the-flag)
 * [Data science](#data-science)
+* [Information security](#information-security)
 * [Problem Sets](#problem-sets)
 
 
@@ -9,7 +11,10 @@
 
 * [4Clojure](http://www.4clojure.com)
 * [A2 Online Judge](https://a2oj.com)
+* [AtCoder](https://atcoder.jp)
+* [Binary Search](https://binarysearch.com)
 * [Caribbean Online Judge](http://coj.uci.cu)
+* [COCI](https://hsin.hr/coci/)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
 * [Codecombat](https://codecombat.com)
@@ -19,20 +24,44 @@
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
+* [E-olymp](https://www.e-olymp.com/en/)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
+* [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
+* [LeetCode](https://leetcode.com)
 * [Microcorruption](https://microcorruption.com/login)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Topcoder](https://www.topcoder.com)
+* [Toph](https://toph.co)
+* [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
+
+
+### Capture the flag
+
+* [CTFlearn](https://ctflearn.com) (email adress *requested*)
+* [Google Ctf](https://capturetheflag.withgoogle.com) (email adress *requested*)
+* [Hackthebox](https://www.hackthebox.eu) (email adress *requested*)
+* [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
+* [Picoctf](https://picoctf.org/resources) (email adress *requested*)
+* [TryHackMe](https://tryhackme.com) (email adress *requested*)
 
 
 ### Data science
 
+* [AIcrowd](https://www.aicrowd.com)
+* [CodaLab](https://competitions.codalab.org)
+* [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
+
+
+### Information security
+
+* [ångstromCTF](https://angstromctf.com)
+* [CTFtime](https://ctftime.org)
 
 
 ### Problem Sets
@@ -44,9 +73,9 @@
 * [CareerCup](http://www.careercup.com)
 * [CheckIO](http://www.checkio.org)
 * [Codeforces](http://codeforces.com/problemset)
-* [CodeHunt](https://www.codehunt.com)
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
+* [CSES Problem Set](https://cses.fi/problemset/)
 * [Exercism](http://exercism.io)
 * [Geeks For Geeks](http://www.geeksforgeeks.org)
 * [Google Code Jam - Practise](https://code.google.com/codejam/contests.html)
@@ -61,6 +90,7 @@
 * [PEG Judge](http://wcipeg.com)
 * [PKU Online Judge](http://poj.org)
 * [Ponder This!](https://www.research.ibm.com/haifa/ponderthis/index.shtml)
+* [Practice Python](https://www.practicepython.org)
 * [ProblemBook.NET](https://github.com/AndreyAkinshin/ProblemBook.NET)
 * [Project Euler](https://projecteuler.net)
 * [Python Practice Projects](http://pythonpracticeprojects.com)

@@ -5,11 +5,9 @@
   * [Algorithmique](#algorithmique)
   * [Logiciels libres](#logiciels-libres)
   * [Makefile](#makefile)
-  * [Méthodes de développment](#méthodes-de-développement)
   * [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
   * [Théorie des langages](#théorie-des-langages)
 * [Ada](#ada)
-* [Arduino](#arduino)
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
 * [C / C++](#c--c)
@@ -19,7 +17,7 @@
 * [Git](#git)
 * [Haskell](#haskell)
 * [Java](#java)
-* [Javascript](#javascript)
+* [JavaScript](#javascript)
 * [jQuery](#jquery)
 * [(La)TeX et associés](#latex-et-associés)
   * [Asymptote](#asymptote)
@@ -32,12 +30,16 @@
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
+  * [Symfony](#symfony)
+* [Processing](#processing)
 * [Python](#python)
   * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Sage](#sage)
 * [Scilab](#scilab)
+* [Scratch](#scratch)
 * [SPIP](#spip)
 * [SQL](#sql)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
@@ -63,7 +65,7 @@
 
 #### Logiciels libres
 
-* [Histoires et cultures du libres](http://framabook.org/histoiresetculturesdulibre/)
+* [Histoires et cultures du Libre](http://framabook.org/histoiresetculturesdulibre/)
 * [Option libre. Du bon usage des licences libres](http://framabook.org/optionlibre-dubonusagedeslicenceslibres/) - Jean Benjamin
 * [Produire du logiciel libre](http://framabook.org/produire-du-logiciel-libre-2/) - Karl Fogel
 * [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/) - R.M. Stallman, S. Williams et C. Masutti
@@ -75,26 +77,16 @@
 * [Introduction aux Makefile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf) (PDF)
 
 
-#### Méthodes de développement
-
-* [Scrum et XP depuis les tranchées](http://www.infoq.com/resource/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenches_French.pdf) - Henrik Kniberg (PDF)
-
-
 #### Pédagogie pour enfants et adolescents
 
 * [Activités débranchées](https://pixees.fr/?cat=612) Catalogue de ressource pour apprendre l'informatique sans ordinateur.
-* [Apprendre l'informatique sans ordinateur](https://interstices.info/jcms/c_47072/enseigner-et-apprendre-les-sciences-informatiques-a-lecole) - Tim Bell, Ian H. Witten et Mike Fellows (traduit)
+* [Apprendre l'informatique sans ordinateur](https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/) - Tim Bell, Ian H. Witten et Mike Fellows (traduit)
 
 
 ### Ada
 
 * [Cours Ada](http://d.feneuille.free.fr/cours-ada-iut.zip) - Daniel Feneuille (Support d'un cours enseigné à l'IUT d'Aix-en-Provence) (ZIP)
 * [Cours Ada 95 pour le programmeur C++](http://d.feneuille.free.fr/c++%20to%20ada%201.0a.pdf) - Quentin Ochem (PDF)
-
-
-### Arduino
-
-* [Arduino : Premiers pas en informatique embarquée](http://eskimon.fr/ebook-tutoriel-arduino) - Eskimon et olyte
 
 
 ### Assembleur
@@ -114,10 +106,10 @@
 
 ### C / C++
 
-* [C++ moderne](http://guillaume.belz.free.fr/doku.php?id=programmez_avec_le_langage_c) - Guillaume Belz
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
 * [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
 * [Le langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - Informaticienzero, Taure, Paraze et Lucas-84
+* [Programmation en Langage C et Systèmes Informatiques](https://sites.uclouvain.be/SystInfo/notes/Theorie/) - O. Bonaventure, E. Riviere, G. Detal, C. Paasch
 
 
 ### Coq
@@ -138,13 +130,15 @@
 
 ### Java
 
+* [Développons en Java](http://www.jmdoudoux.fr/accueil_java.htm#dej) - Jean-Michel DOUDOUX (3400 pages!)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Play.Rules!](http://3monkeys.github.io/play.rules/)
 
 
-### Javascript
+### JavaScript
 
-* [Javascript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
+* [JavaScript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
+* [Node.Js: Apprendre par la pratique](https://oncletom.io/node.js/#chapitres) - Thomas Parisot 
 
 
 ### jQuery
@@ -162,6 +156,7 @@
 
 #### LaTeX
 
+* [Apprends LaTeX](https://tex.loria.fr/general/apprends-latex.pdf) - Marc Baudoin (PDF)
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourLeProfDeMaths.pdf) - Arnaud Gazagnes (PDF)
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) - Maïeul Rouquette
@@ -183,11 +178,6 @@
 * [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf) - John D. Hobby (PDF)
 
 
-#### Pharo
-
-* [Pharo par l'Exemple](http://pharobyexample.org/fr/)
-
-
 #### PGF/TikZ
 
 * [TikZ pour l'impatient](http://math.et.info.free.fr/TikZ/) - Gérard Tisseau et Jacques Duma
@@ -195,6 +185,7 @@
 
 #### TeX
 
+* [Apprendre à programmer en TeX](https://ctan.org/pkg/apprendre-a-programmer-en-tex) - Christian Tellechea
 * [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf) - Paul Abrahams, Kathryn Hargreaves, and Karl Berry, trad. Marc Chaudemanche (PDF)
 
 
@@ -213,7 +204,6 @@
 ### Meteor
 
 * [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle
-* [Discover Meteor](http://fr.discovermeteor.com) - Tom Coleman et Sacha Greif
 
 
 ### Perl
@@ -225,13 +215,24 @@
 ### PHP
 
 * [Cours de PHP 5](http://g-rossolini.developpez.com/tutoriels/php/cours/?page=introduction) - Guillaume Rossolini
-* [Initiation au PHP](http://framasoft.net/IMG/pdf/initiation_php.pdf) - David Ducrocq (PDF)
 * [Programmer en PHP](http://www.lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF)
+
+
+#### Symfony
+
+* [En route pour Symfony 5](https://symfony.com/doc/5.0/the-fast-track/fr/index.html)
+
+
+### Processing
+
+* [Processing](https://fr.flossmanuals.net/processing/) - Œuvre collective (HTML)
 
 
 ### Python
 
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
+* [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et lier ensuite votre compte self-learning à votre compte INGInious. )
+* [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/)
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) - Guido Van Rossum (PDF)
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau et Laurent Pointal
 
@@ -257,6 +258,12 @@
 * [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](http://french.railstutorial.org/chapters/beginning) - Michael Hartl
 
 
+### Rust
+
+* [Traduction du Rust book en français](https://jimskapt.github.io/rust-book-fr/) par Thomas Ramirez
+* [Tutoriel rust](https://blog.guillaume-gomez.fr/Rust/) par Guillaume Gomez
+
+
 ### Sage
 
 * [Calcul mathématique avec Sage](https://hal.inria.fr/inria-00540485/file/sagebook-web-20130530.pdf) - A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann (PDF)
@@ -267,6 +274,11 @@
 * [Introduction à Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/) - Michaël Baudin, Artem Glebov, Jérome Briot
 
 
+### Scratch
+
+* [Informatique Créative](https://pixees.fr/programmation-creative-en-scratch/)
+
+
 ### SPIP
 
 * [Programmer avec SPIP](http://programmer.spip.net) - Matthieu Marcimat et collectif SPIP
@@ -275,6 +287,7 @@
 ### SQL
 
 * [Cours complet pour apprendre les différents types de bases de données et le langage SQL](https://sgbd.developpez.com/tutoriels/cours-complet-bdd-sql/) - Jacques Le Maitre
+* [Only SQL. Tout ce que vous avez toujours voulu savoir sur les SGBD sans jamais avoir osé le demander.](https://framabook.org/not-only-sql/) - Vincent Lozano et Éric Georges
 
 
 ### Systèmes d'exploitation
